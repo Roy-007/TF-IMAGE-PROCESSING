@@ -1,0 +1,15 @@
+For Windows 
+
+
+"PIP INSTALL" FOLLOWING
+
+pip
+jupyter notebook
+tensorflow
+tflearn
+tensorboard
+cv2
+tqdm
+numpy
+keras
+other required packages
